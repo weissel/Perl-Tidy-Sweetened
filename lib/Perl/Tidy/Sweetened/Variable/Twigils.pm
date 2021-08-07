@@ -133,7 +133,7 @@ Perl::Tidy such that:
 
 is turned into:
 
-    $__TWG_BANK_1
+    $__TWG_BANG_1
 
 Then back into the original twigiled variable in the C<postfilter>.
 
